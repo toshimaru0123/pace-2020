@@ -12,7 +12,7 @@ make
 ```
 
 ## DOI
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3894063.svg)](https://doi.org/10.5281/zenodo.3894063)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3894070.svg)](https://doi.org/10.5281/zenodo.3894070)
 
 
 [1]:https://pacechallenge.org/2020/
