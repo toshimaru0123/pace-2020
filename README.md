@@ -1,4 +1,4 @@
-# Treedepth Solver
+# wankoSOBA: Exact treedepth decomposition solver
 This is an exact solver for Treedepth problem of the Parameterized Algorithms and Computational Experiments Challenge[(PACE2020)][1].
 
 ## Required
