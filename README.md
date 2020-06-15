@@ -4,6 +4,7 @@ This is an exact solver for Treedepth problem of the Parameterized Algorithms an
 ## Required
 GCC 5.4.0 or later
 - g++
+- make
 
 ## How to build
 use make command.
@@ -12,7 +13,7 @@ make
 ```
 
 ## DOI
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3894070.svg)](https://doi.org/10.5281/zenodo.3894070)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3894124.svg)](https://doi.org/10.5281/zenodo.3894124)
 
 
 [1]:https://pacechallenge.org/2020/

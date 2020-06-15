@@ -1,7 +1,9 @@
 CXX = g++
 CXXFLAGS = -O3 -Wall -std=c++11 
 
-all: exact
+PROGEAM = wankoSOBA
 
-exact: exactTDD.cpp
-	$(CXX) $(CXXFLAGS) -o exactTDD exactTDD.cpp
+all: $(PROGEAM)
+
+$(PROGEAM): exactTDD.cpp
+	$(CXX) $(CXXFLAGS) -o $(PROGEAM) exactTDD.cpp
